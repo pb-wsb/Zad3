@@ -1,0 +1,1 @@
+Simmple script for testing swapi.dev api

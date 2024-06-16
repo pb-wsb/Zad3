@@ -6,7 +6,7 @@ Flask app - run it using <strong>py app.py</strong>
 2 routes:
 <ol>
     <li>/home - returns 'Hello world'</li>
-    <li>/test - makes request to https://swapi.dev/api/test/<ppl_id>, where ppl_id is integer - example /test/1</li>
+    <li>/test - makes request to https://swapi.dev/api/test/<ppl_id>, where ppl_id is an integer - example /test/1</li>
 </ol>
 
 

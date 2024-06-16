@@ -1,6 +1,10 @@
+.PHONY: install test run
+
 install:
-    pip install -r requirements.txt
+	pip install -r requirements.txt
+
 test:
-    pytest
+	pytest
+
 run:
-    python app.py
+	python app.py

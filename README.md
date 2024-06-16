@@ -14,7 +14,7 @@ Flask app - run it using <strong>py app.py</strong>
 Run tests using <strong>pytest</strong> command
 
 <h2>Makefile</h2>
-Commends:
+Commands:
 <ol>
     <li><strong> make install</strong> - Installs dependencies from requirements.txt</li>
     <li><strong> make test</strong> - Run tests</li>
